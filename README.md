@@ -12,4 +12,4 @@ Elles restent identiques :
 
 ## Pour jouer
 
-Vous pouvez cliquer [ici](https://thomaspanier.github.io/chifoumi2).
+Vous pouvez cliquer [ici](https://thomaspanier.github.io/chifoumi2/).
